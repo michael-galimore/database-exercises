@@ -37,4 +37,5 @@ INSERT INTO albums (artist, name, release_date, genre, sales)
             ('Guns N'' Roses', 'Appetite for Destruction', 1987, 'Hard rock', 21.6);
 
 
+
 SELECT * FROM albums;

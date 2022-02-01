@@ -8,8 +8,10 @@ CREATE TABLE albums(
      genre VARCHAR(50),
      sales FLOAT,
      PRIMARY KEY (id)
+
 );
 
 
 DESCRIBE albums;
 SHOW CREATE TABLE albums;
+
